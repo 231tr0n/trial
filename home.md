@@ -159,6 +159,18 @@ which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
+> [!TIP]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Highlights information that users should take into account, even when skimming.
+
+> [!WARNING]
+> Highlights information that users should take into account, even when skimming.
+
+> [!CAUTION]
+> Highlights information that users should take into account, even when skimming.
+
 ----------------------------------------
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
